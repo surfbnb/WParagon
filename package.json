@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel aragon-connect-plugin.php",
-    "build": "parcel build aragon-connect-plugin.php"
+    "dev": "parcel main.ts --out-dir ./assets/js-dist",
+    "build": "parcel build main.ts --out-dir ./assets/js-dist"
   },
   "keywords": [],
   "author": "",
