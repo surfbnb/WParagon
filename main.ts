@@ -82,10 +82,5 @@ async function main() {
   const voters = casts.map((cast: Cast) => cast.voter)
   console.log('Voters:', voters)
 }
+
 main()
-  .then(() => process.exit(0))
-  .catch(err => {
-    console.error('')
-    console.error(err)
-    process.exit(1)
-  })
