@@ -1,3 +1,5 @@
+Our initial philosophy is that there is no one source of truth. We don’t believe that there are the “Ten Best Things to Do in Costa Rica” but the ten best things to do for each different person. According to us, that’s the key to an enhanced experience. Finding the right person, the right like-minded local, for that local knowledge. Because you have similar interests, there’s the key to a better experience. Customers get to ask them advice through our platform and book directly with the hotel. Ambassadors can tap into their network of insiders and pro athletes to offer authentique surf travel experiences.
+
 # Basic React Files for WordPress
 The repository contains the very basic Required files to create a react app with JSX (in WordPress). The goal is to use Aragon Govern to connect with the surfbnb.tv website. Below is our proposal regarding the sic core feature we would like to custom develop as a showcase of Aragon V2
 
