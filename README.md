@@ -1,5 +1,5 @@
 # Basic React Files for WordPress
-The repository contains the very basic Required files to create a react app with JSX (in WordPress).
+The repository contains the very basic Required files to create a react app with JSX (in WordPress). The goal is to use Aragon Govern to connect with the surfbnb.tv website. Below is our proposal regarding the sic core feature we would like to custom develop as a showcase of Aragon V2
 
 # 1/ Join the DAO 📽
 
