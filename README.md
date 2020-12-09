@@ -64,3 +64,8 @@ All tips received are automatically sent to the DAO. If the reader is paying in 
 > Enable a token to be emailed if they complete a specific task (such as verifying their email address). This can be accomplished using [Linkdrop](https://linkdrop.io/). The beauty of Linkdrop is that it enables any user to claim digital assets (such as a token) without having a wallet in advance.
 
 **Plugin settings:** Specify how many tokens to distribute to each user via Linkdrop.
+
+
+# WParagon Opportunity 💡
+
+We hope to be able to make these interactions possible without even leaving the WordPress page or post, through embeddable widgets built on top of [Aragon Connect](https://connect.aragon.org/). This was part of the [Hack for Freedom](https://hackforfreedom.org/) on Discord and was created by @Joey C !!! We have code/design ready for a brand new non-WP based site but we will stick with WP for now to explore this integration as it could be a Proof Of Concept for nearly half a billion sites today. The Aragon WordPress plugin will enable website visitors to seamlessly interact with an Aragon DAO directly from a WordPress website. 30% of the websites in the world use WP. Over 400 million people visit WordPress sites each month. 28% of all e-commerce goes through WooCommerce.
