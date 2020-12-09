@@ -21,8 +21,6 @@ In the plugin settings, we would need to define how many tokens to issue to a ne
 
 For the content producers and viewers on the protocol, creating a blockchain-enabled social media system will facilitate tracking of the content, author, timestamp, viewership, comments, as well as votes/likes in a public record. How does it deal with content discovery? By only showing you content from ambassadors you follow, and contributors they also follow. If you are a new player following no one, it suggests ambassadors to follow from a list voted by the governance SBNB holders.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/353b514b-45d3-419a-82df-c28dffa8ffd4/Screenshot_2020-11-15_at_20.53.42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/353b514b-45d3-419a-82df-c28dffa8ffd4/Screenshot_2020-11-15_at_20.53.42.png)
-
 # 3/ Vote on an editorial proposal in the DAO 🎛
 
 > A user should be able to vote on a proposal by the DAO directly from the [www.surfbnb.tv](http://www.surfbnb.tv)  page/post. The first step of this process is for the user to login using [Fortmatic](https://fortmatic.com/). If they are not already a member, they should instead be prompted to join the DAO.
@@ -66,7 +64,3 @@ All tips received are automatically sent to the DAO. If the reader is paying in 
 > Enable a token to be emailed if they complete a specific task (such as verifying their email address). This can be accomplished using [Linkdrop](https://linkdrop.io/). The beauty of Linkdrop is that it enables any user to claim digital assets (such as a token) without having a wallet in advance.
 
 **Plugin settings:** Specify how many tokens to distribute to each user via Linkdrop.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/037aeea7-c6a6-4770-b421-9197d8f17f99/Screenshot_2020-11-15_at_17.51.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/037aeea7-c6a6-4770-b421-9197d8f17f99/Screenshot_2020-11-15_at_17.51.28.png)
-
-[https://github.com/surfbnb/open-enterprise](https://github.com/surfbnb/open-enterprise) looks great to improve the current template ...
